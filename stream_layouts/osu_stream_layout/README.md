@@ -6,6 +6,8 @@ Preview:
 
 Pre-configuration before setting up via OBS Studio:
 
+0- Disable Fullscreen mode on osu!'s options;
+
 1- osu! needs to be set to a custom resolution for this to fit properly, in case you don't want to edit "border.png" to fit your osu!'s window.
 
 2- Go to your "osu!" folder, and open the .cfg related to your computer's UserName;
@@ -40,7 +42,7 @@ a) On "Mode", select "Capture specific window";
 
 b) Window: "[osu!.exe]: osu!";
 
-c) Window Match Priority: "Window title must match";
+c) Window Match Priority: "Match title, otherwise find window of same executable";
 
 d) You can also disable "Capture Cursor", as the one in-game show just fine (I did forget to disable this option on my video, though);
 
