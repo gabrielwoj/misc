@@ -73,7 +73,7 @@ b) Press "Close".
 
 a) Right-click on the "Effect Filters" area, and go to "Add" then "Scroll";
 
-b) Keep the Horizontal Speed value as "0.00", and change the Vertical Speed to "10.00", or a number to your liking;
+b) Keep the Horizontal Speed value as "0.00", and change the Vertical Speed to "10.00";
 
 c) Enable "Limit Height", and set it to "1080";
 
@@ -83,7 +83,7 @@ e) Right-click on the "Effect Filters" area, and go to "Add" then "Color Correct
 
 f) Set the opacity value to "0.9000";
 
-12- Right-click on "Background" once again, and go to "Transform" then "Center to screen".
+12- Right-click on "osu! Background" once again, and go to "Transform" then "Center to screen".
 
 13- Right-click on the "Sources" box, and Add another image;
 
