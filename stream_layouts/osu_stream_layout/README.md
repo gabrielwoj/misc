@@ -8,15 +8,19 @@ Preview:
 
 Pre-configuration before setting up via OBS Studio:
 
-0- Disable Fullscreen mode on osu!'s options;
+0- Launch "osu!";
 
-1- osu! needs to be set to a custom resolution for this to fit properly, in case you don't want to edit "border.png" to fit your osu!'s window.
+1- Go to "Options";
 
-2- Go to your "osu!" folder, and open the .cfg related to your computer's UserName;
+2- Go to the "GRAPHICS" section, and disable "Fullscreen mode";
 
-3- Ctrl+F "Height =". Replace the value with "1050", so it should look like: "Height = 1050";
+3- Close "osu!";
 
-4- Ctrl+F "Width =". Replace the value with "1920", so it should look like: "Width = 1920".
+4- Go to your "osu!" folder installation, and open the .cfg related to your computer's UserName;
+
+5- Ctrl+F "Height =". Replace the value with "1050", so it should look like: "Height = 1050";
+
+6- Ctrl+F "Width =". Replace the value with "1920", so it should look like: "Width = 1920".
 
 Note that this layout was made with DisplayFusion in mind, where I have a "Window Position" Profile where it basically moves the osu! window so the the titlebar is off-screen from the top, causing to fit perfectly with my taskbar.
 
