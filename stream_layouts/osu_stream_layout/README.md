@@ -10,9 +10,9 @@ Pre-configuration before setting up via OBS Studio:
 
 2- Go to your "osu!" folder, and open the .cfg related to your computer's UserName;
 
-3- Ctrl+F "HeightFullscreen". Replace the value with "1050", so it should look like: "HeightFullscreen = 1050";
+3- Ctrl+F "Height =". Replace the value with "1050", so it should look like: "Height = 1050";
 
-4- Ctrl+F "WidthFullscreen". Replace the value with "1920", so it should look like: "WidthFullscreen = 1920".
+4- Ctrl+F "Width =". Replace the value with "1920", so it should look like: "Width = 1920".
 
 Note that this layout was made with DisplayFusion in mind, where I have a "Window Position" Profile where it basically moves the osu! window so the the titlebar is off-screen from the top, causing to fit perfectly with my taskbar.
 
@@ -40,7 +40,7 @@ a) On "Mode", select "Capture specific window";
 
 b) Window: "[osu!.exe]: osu!";
 
-c) Window Match Priority: "Match title, otherwise find window of same executable";
+c) Window Match Priority: "Window title must match";
 
 d) You can also disable "Capture Cursor", as the one in-game show just fine (I did forget to disable this option on my video, though);
 
