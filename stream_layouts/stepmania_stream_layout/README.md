@@ -4,6 +4,8 @@ Preview:
 
 ![Preview](Preview.gif)
 
+(Previews are coming later)
+
 Pre-configuration before setting up via OBS Studio:
 
 0- This layout was made for the old school StepMania 3.9. It's also designed around the "In The Groove 2" custom theme. It may not align 1:1 with newer versions of Stepmania;

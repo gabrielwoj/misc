@@ -4,6 +4,8 @@ Preview:
 
 ![Preview](Preview.gif)
 
+(Previews are coming later)
+
 Pre-configuration before setting up via OBS Studio:
 
 0- Disable Fullscreen mode on osu!'s options;

@@ -4,6 +4,8 @@ Preview:
 
 ![Preview](Preview.gif)
 
+(Previews are coming later)
+
 Pre-configuration before setting up via OBS Studio:
 
 1- Open Overwatch 2. Once on the Main Menu screen, press ESC;
