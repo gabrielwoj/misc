@@ -28,6 +28,8 @@ On AltSnap, make sure to disable the following:
 
 Now, move "osu!"'s window by holding Left Alt, then clicking and holding left-click, until the titlebar is no longer visible from the top, then let it go (the left-click button). You'll have to do this everytime you open osu!.
 
+Once done, you can click on AltSnap's tray icon to disable window dragging with Left Alt + Holding Left Click, so it won't interfere with gameplay if you use the mouse buttons and Alt to play.
+
 Instructions to set-up via OBS Studio:
 
 1- Right click on "Scenes" empty box and create one for "osu!";
