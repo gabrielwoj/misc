@@ -1,2 +1,2 @@
 # misc
-Uncategorized stuff
+Contains: "osu_skins" and "stream_layouts".
